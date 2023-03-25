@@ -1,4 +1,4 @@
-# Laravel 9 允許將特定 Eloquent 模型以 JavaScript Object Notation (JSON) 文件的形式匯出資料
+# Laravel 10 允許將特定 Eloquent 模型以 JavaScript Object Notation (JSON) 文件的形式匯出資料
 
 引入 vildanbina 的 laravel-model-json 套件來擴增允許將特定模型以 JavaScript Object Notation (JSON) 文件的形式匯出資料，方便將資料下載到電腦上做編輯。
 
@@ -28,5 +28,5 @@ $ php artisan model:export {模型名稱} --beautify
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/b6b92nS.png)
+![](https://i.imgur.com/C8KMEEp.png)
 > 將資料以 JavaScript Object Notation (JSON) 文件的形式匯出
